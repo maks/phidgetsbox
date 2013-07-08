@@ -18,6 +18,7 @@ public class Testbox {
         System.out.println(s);
     }
     public static void pout(String s){
+        System.out.print("                                             \r");
         System.out.print(s+"\r");
     }
     
